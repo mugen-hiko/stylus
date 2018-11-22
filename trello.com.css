@@ -1,0 +1,41 @@
+@-moz-document url-prefix("https://trello.com/") {
+.markeddown h1 {
+    margin: 15px 0 10px 0;
+    padding-left: 5px;
+    border-left: 5px solid #58b2dc;
+    border-bottom: 1px solid #58b2dc;
+}
+
+.markeddown h2 {
+    margin: 15px 0 10px 0;
+    padding-left: 4px;
+    border-left: 3px solid #58b2dc;
+    border-bottom: 1px solid #58b2dc;
+}
+
+.markeddown h3 {
+    margin: 15px 0 10px 0;
+    padding-left: 3px;
+    border-left: 1px solid #58b2dc;
+    border-bottom: 1px solid #58b2dc;
+}
+
+.markeddown h4 {
+    margin: 15px 0 10px 0;
+    border-bottom: 1px dotted #58b2dc;
+}
+
+.markeddown p {
+    margin-bottom: 1em;
+}
+
+.markeddown pre {
+    background-color: #2b2b2b;
+    color: #A9B7C6;
+}
+
+.markeddown code {
+    background-color: #2b2b2b;
+    color: #A9B7C6;
+}
+}
