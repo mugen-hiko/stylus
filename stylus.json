@@ -9,7 +9,7 @@
 		"name": "trello.com",
 		"sections": [
 			{
-				"code": ".markeddown h1 {\n    margin: 15px 0 10px 0;\n    padding-left: 5px;\n    border-left: 5px solid #58b2dc;\n    border-bottom: 1px solid #58b2dc;\n}\n\n.markeddown h2 {\n    margin: 15px 0 10px 0;\n    padding-left: 4px;\n    border-left: 3px solid #58b2dc;\n    border-bottom: 1px solid #58b2dc;\n}\n\n.markeddown h3 {\n    margin: 15px 0 10px 0;\n    padding-left: 3px;\n    border-left: 1px solid #58b2dc;\n    border-bottom: 1px solid #58b2dc;\n}\n\n.markeddown h4 {\n    margin: 15px 0 10px 0;\n    border-bottom: 1px dotted #58b2dc;\n}\n\n.markeddown p {\n    margin-bottom: 1em;\n}\n\n.markeddown pre {\n    background-color: #2b2b2b;\n    color: #A9B7C6;\n}\n\n.markeddown code {\n    background-color: #2b2b2b;\n    color: #A9B7C6;\n}",
+				"code": ".markeddown h1 {\n    margin: 15px 0 10px 0;\n    padding-left: 5px;\n    border-left: 5px solid #58b2dc;\n    border-bottom: 1px solid #58b2dc;\n}\n\n.markeddown h2 {\n    margin: 15px 0 10px 0;\n    padding-left: 4px;\n    border-left: 3px solid #58b2dc;\n    border-bottom: 1px solid #58b2dc;\n}\n\n.markeddown h3 {\n    margin: 15px 0 10px 0;\n    padding-left: 3px;\n    border-left: 1px solid #58b2dc;\n    border-bottom: 1px solid #58b2dc;\n}\n\n.markeddown h4 {\n    margin: 15px 0 10px 0;\n    border-bottom: 1px dotted #58b2dc;\n}\n\n.markeddown p {\n    margin-bottom: 1em;\n}\n\n.markeddown pre {\n    background-color: #2b2b2b;\n    color: #A9B7C6;\n    font-family: Osaka-mono, monospace;\n}\n\n.markeddown code {\n    background-color: #2b2b2b;\n    color: #A9B7C6;\n    font-family: Osaka-mono, monospace;\n}",
 				"urlPrefixes": [
 					"https://trello.com/"
 				]
